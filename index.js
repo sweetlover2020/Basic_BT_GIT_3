@@ -10,3 +10,5 @@ var BaiTap2 = function() {
 }
 
 console.log('null');
+
+console.log('buoi3');
