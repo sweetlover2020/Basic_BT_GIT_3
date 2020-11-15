@@ -8,3 +8,5 @@ var BaiTap1 = function() {
 var BaiTap2 = function() {
     console.log('doneBaiTapBuoi2');
 }
+
+console.log('null');
